@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "571285888788",
+    "project_id": "secial-app",
+    "storage_bucket": "secial-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571285888788:android:012f18ce7e3eefc53eec01",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571285888788-88sebeamog0jjaapuk7hal66ffejulns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "50e1dddcb1ed26b888b09041baa22c409826afd7"
+          }
+        },
+        {
+          "client_id": "571285888788-u2sl0tj6kjp9ful5l64mkieomhd5ugi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGKQxFJQHSzfE2YxfkC7dNAlY0muTMC_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571285888788-u2sl0tj6kjp9ful5l64mkieomhd5ugi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
